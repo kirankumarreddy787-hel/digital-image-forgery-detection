@@ -1,0 +1,14 @@
+numpy==1.26.4
+pandas==1.5.3
+scikit-learn==1.2.2
+streamlit==1.30.0
+pillow==10.4.0
+opencv-python==4.9.0.80
+scikit-image==0.22.0
+matplotlib==3.8.4
+langchain-groq==0.1.4
+langchain-core==0.1.46
+tensorflow==2.15.0
+torch==2.1.1
+scipy==1.17.0
+torchvision==0.16.1
